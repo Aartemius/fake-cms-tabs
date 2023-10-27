@@ -18,6 +18,8 @@
   display: block;
   transition: .2s;
   text-align: center;
+  height: 100%;
+  box-sizing: border-box;
 }
 
 .nav-tabs li a:hover {
