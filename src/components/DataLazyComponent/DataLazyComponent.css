@@ -1,0 +1,37 @@
+/* table styles */
+
+#data-wrap {
+  padding: 2rem;
+}
+
+table, td, th {
+  border: 1px solid;
+}
+
+table {
+  margin: 0 auto;
+}
+
+td {
+  padding: .5rem;
+}
+
+/* chart styles */
+
+.chart-wrap {
+  height: 50vh;
+}
+.chart-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* list styles */
+.dummy-list {
+  padding-left: 30px;
+}
+.dummy-list li {
+  list-style: disc;
+  margin-bottom: 1rem;
+}

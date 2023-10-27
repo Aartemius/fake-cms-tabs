@@ -1,0 +1,7 @@
+const tabs = [
+  {id: 'dummyTable', title: 'Dummy Table', order: 1, path: 'tabs/dummyTable.tsx'},
+  {id: 'dummyChart', title: 'Dummy Chart', order: 2, path: 'tabs/dummyChart.tsx'},
+  {id: 'dummyList', title: 'Dummy List', order: 0, path: 'tabs/dummyList.tsx'}
+];
+
+export default tabs;
