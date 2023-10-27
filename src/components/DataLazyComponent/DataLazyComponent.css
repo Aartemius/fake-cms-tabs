@@ -35,3 +35,7 @@ td {
   list-style: disc;
   margin-bottom: 1rem;
 }
+.dummy-list li:not(.dummy-list li:last-of-type) {
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 1rem;
+}
